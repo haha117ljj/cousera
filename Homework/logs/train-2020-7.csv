@@ -1,0 +1,23 @@
+tag,unique_id,timestamp,x_shape,eval_test,model_version,model_version_note,runtime
+all,9a4efd96-7d6d-455f-afe0-0b08420adbe2,1595056837.1099243,"(549, 7)",16028.0,0.1,supervised learing model for time-series,000:00:07
+eire,d35a0697-a095-48a6-9b40-f869a663c71d,1595056845.6118772,"(549, 7)",1578.0,0.1,supervised learing model for time-series,000:00:08
+france,56b92214-5dfc-43f1-9c1d-d595dac83528,1595056853.9022026,"(549, 7)",513.0,0.1,supervised learing model for time-series,000:00:08
+germany,ae287155-fb5a-4830-89af-5c192d940bfb,1595056862.8663778,"(549, 7)",488.0,0.1,supervised learing model for time-series,000:00:08
+hong_kong,656d48b3-e3c7-4d2e-bd3f-ad176f72c70e,1595056866.5390542,"(282, 7)",970.0,0.1,supervised learing model for time-series,000:00:03
+netherlands,831551b4-dd3b-48b9-b2b0-7132596fa0fa,1595056874.207162,"(548, 7)",126.0,0.1,supervised learing model for time-series,000:00:07
+norway,836a0af1-8a59-4971-a78b-929e8a02d694,1595056878.8854148,"(407, 7)",69.0,0.1,supervised learing model for time-series,000:00:04
+portugal,cb85fc49-dc8b-4f64-acf6-1ec5ff2876f5,1595056885.702274,"(549, 7)",354.0,0.1,supervised learing model for time-series,000:00:06
+singapore,586ffd3a-16a3-4ddf-be29-58de69368051,1595056889.4430892,"(250, 7)",2993.0,0.1,supervised learing model for time-series,000:00:03
+spain,8c8af1e0-24f0-41c9-98d5-533ccf22a027,1595056897.6105635,"(547, 7)",193.0,0.1,supervised learing model for time-series,000:00:08
+united_kingdom,4120749b-6a72-4e87-b03d-63e7171674da,1595056906.0409596,"(549, 7)",19110.0,0.1,supervised learing model for time-series,000:00:08
+all,ffd33a14-fbb6-4c2c-88e5-e1b0871b29fc,1595057040.6291738,"(549, 13)",18015.0,0.1,supervised learing model for time-series,000:00:12
+eire,b7198640-1d3c-4d7c-90ef-1a67853bd2de,1595057053.855231,"(549, 13)",1565.0,0.1,supervised learing model for time-series,000:00:13
+france,93575ff4-20d6-4b39-9fbc-994bae963838,1595057066.7320955,"(549, 13)",627.0,0.1,supervised learing model for time-series,000:00:12
+germany,66669b08-1a6d-47b7-aba3-d6e7af80de73,1595057079.8206224,"(549, 13)",438.0,0.1,supervised learing model for time-series,000:00:13
+hong_kong,bffbed10-8e4e-46ac-929c-c8495ce3431c,1595057085.5101097,"(282, 13)",658.0,0.1,supervised learing model for time-series,000:00:05
+netherlands,ba699758-8990-4d4a-b2fe-665dacb676c6,1595057097.6627426,"(548, 13)",105.0,0.1,supervised learing model for time-series,000:00:12
+norway,79d39c9e-cf54-4a06-b411-d14ce99d0bfe,1595057105.4015799,"(407, 13)",52.0,0.1,supervised learing model for time-series,000:00:07
+portugal,d76fe62a-baba-4061-9517-27a023014b44,1595057117.4833686,"(549, 13)",421.0,0.1,supervised learing model for time-series,000:00:12
+singapore,ca478a4b-ea7c-404e-b355-3fb3708b48a9,1595057122.9096034,"(250, 13)",1622.0,0.1,supervised learing model for time-series,000:00:05
+spain,f0ae7133-98a5-4db6-912a-e95682f5e788,1595057136.5530763,"(547, 13)",195.0,0.1,supervised learing model for time-series,000:00:13
+united_kingdom,c3561a26-e817-4f34-b347-92af4aee9ad8,1595057149.587544,"(549, 13)",15982.0,0.1,supervised learing model for time-series,000:00:13
